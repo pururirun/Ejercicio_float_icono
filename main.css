@@ -1,0 +1,23 @@
+.contenedor{
+  background: red;
+  border: 1px solid black;
+  overflow: hidden;
+}
+
+li{
+  float: left;
+  height: 40px;
+  margin: 20px;
+}
+
+.imagen_1{
+  float: left;
+  margin: 0em 2em;
+  border: 1px solid black;
+}
+
+.imagen_2{
+  float: right;
+  margin: 0em 2em;
+  border: 1px solid black;
+}
